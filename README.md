@@ -2,16 +2,23 @@
 
 **朋友圈(组件版/云开发)**
 
-`@feature`
-
 - [x] 朋友圈发布
+
 - [x] 朋友圈点赞
+
 - [x] 朋友圈评论
+
 - [x] 朋友圈回复评论
+
 - [x] 点赞撤销
+
 - [x] 评论删除
+
 - [x] 已发布朋友圈删除
+
 - [x] 评论内容安全审核校验
+
+  
 
 
 
@@ -66,3 +73,11 @@ module.exports = {
 > - InfoQ:[https://www.infoq.cn/u/jianguo/publish](https://www.infoq.cn/u/jianguo/publish)
 > - 51CTO博客[https://blog.51cto.com/jianguo](https://blog.51cto.com/jianguo)
 > - CSDN:[https://blog.csdn.net/qq_39132095](https://blog.csdn.net/qq_39132095)
+
+
+
+## 截图
+
+![image-20220213131927596](https://luckly007.oss-cn-beijing.aliyuncs.com/images/image-20220213131927596.png)
+
+![image-20220213131943133](https://luckly007.oss-cn-beijing.aliyuncs.com/images/image-20220213131943133.png)
